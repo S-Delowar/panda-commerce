@@ -47,3 +47,12 @@
     border: none;
     background-color: white;
 }
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
